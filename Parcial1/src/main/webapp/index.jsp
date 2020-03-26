@@ -16,7 +16,6 @@
 	    	<a class="nav-link" href="#">Contacto</a>
 	  	</li>
 	</ul>
-	
 	<div>
 		<h2 align="center">Visión</h2>
 		<p align="center">
