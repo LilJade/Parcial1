@@ -17,11 +17,11 @@
 	  	</li>
 	</ul>
 	<div>
-		<h2 align="center">Visión</h2>
+		<h2 align="center">Vision</h2>
 		<p align="center">
 			Consolidarnos en Centro América como la cadena lider en cocina mexicana distiguinedonos de los demas restaurantes por nuestro ambiente familiar y agradable, servicio cordial, personalizado y precios accesibles, logrando asi la satisfacción de nuestros consumidores.
 		</p>
-		<h2 align="center">Misión</h2>
+		<h2 align="center">Mision</h2>
 		<p align="center">
 			Continuar siendo la cadena lider de restaurantes de cocina mexicana en Centro América, mediante la estandarización y cumplimiento de los procedimientos y valores C.L.A.A.S.E., cumpliendo asi las expectativas de nuestros clientes y logrando su lealtad hacia nuestras marcas.
 		</p>
